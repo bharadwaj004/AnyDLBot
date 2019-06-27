@@ -8,3 +8,4 @@ PyDrive
 pyrogram
 ffmpeg-python
 numpy
+python-3.7
